@@ -9,14 +9,13 @@ package javaapplication25;
  *
  * @author LabB6
  */
-public class JavaApplication25 {
+public class GitVersion {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application log
-        System.out.println("hola mundo");
+        // TODO code application logic here
     }
     
 }
